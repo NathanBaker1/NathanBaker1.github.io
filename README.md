@@ -2,7 +2,7 @@
 ## What is Drunken Wrestlers
 Drunken Wrestlers is a funny multiplayer fighting game based on active ragdoll technology developed by Oleg Skutte during the "2013 nextcastle dev cup".
 
-
+![Screenshot (78)](https://user-images.githubusercontent.com/61393626/78406580-e8f15980-75d0-11ea-96f2-4341e3dfc783.png)
 ## Features
 * two possible languages.
 * single player vs CPU.
@@ -29,6 +29,8 @@ now that you have the game installed you should be able to double click on eithe
 * press a or the left pointing arrow key to move your character backwards. 
 * press d or the right pointing arrow key to move your character forwards.
 * press w or the forward pointing arrow key to thrust your characters arms forward.
+
+
 ## How to Win
 the goal of the game is to be the first to win five rounds.
 a round is won when the opposing character hits the mat or is "dismembered."
