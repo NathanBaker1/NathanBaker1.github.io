@@ -1,6 +1,8 @@
 # Drunken Wrestlers
 ## What is Drunken Wrestlers
 Drunken Wrestlers is a funny multiplayer fighting game based on active ragdoll technology developed by Oleg Skutte during the "2013 nextcastle dev cup".
+
+
 ## Features
 * two possible languages.
 * single player vs CPU.
@@ -15,7 +17,8 @@ Once you have a steam account you must search through steam's seach tool for "Dr
 you can also find the link to the Drunken Wrestlers page [here.](https://store.steampowered.com/app/1188720/Drunken_Wrestlers/)
 ### Step 3:
 After selecting 'Play Game' you will be prompted with the below screen which gives you the Disk space required, your disk space available and the estimated time of download. as well it gives you the option to select the location on your device the game will be stored and the option to create shortcuts. Select 'Next>' when you are ready.
-[](C:\Users\Nate\Pictures\Screenshots\Screenshot (71))
+
+![Screenshot (71)](https://user-images.githubusercontent.com/61393626/78406368-7c765a80-75d0-11ea-81d2-5128092e7384.png)
 ### Step 4:
 Once the game has installed select the 'FINISH' button when prompted.
 ### Step 5:
