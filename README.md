@@ -9,6 +9,7 @@ Drunken Wrestlers is a funny multiplayer fighting game based on active ragdoll t
 * two player game mode.
 * togglable blood amount, dismemberment threshold, and full screen.
 * Replays.
+
 ## Installation
 ### Step 1:
 In order to install the game you will need a steam account and can create one [here.](https://store.steampowered.com/join/)
@@ -43,6 +44,7 @@ Q:
 *
 Q:
 *
+
 ## Support
 If you have any issues or questions about the game you may contact the developer, Oleg Skutte, his website is attached [here.](http://skutteoleg.com/)
 ## License
