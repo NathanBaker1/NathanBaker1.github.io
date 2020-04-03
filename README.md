@@ -41,8 +41,10 @@ unfortunately this game is a complete work created for a contest and has no form
 ## FAQ
 Q: Can I play with my friends through steam rather than in person?
 * Yes, while it used to be true that you could only play the game on a single device, you can now play with friends by inviting them through the steam client.
+
 Q: Why was this game removed from the google play store?
 * Unity 4 was used to code this game in 2013. Since then a change in Google's policy lead to unity 4 games no longer being in complience with their Google Play store agreement and as a result Drunken Wrestlers was removed. If you wish to have a depth answer a link to the developers full reasoning behind what happened can be found [here.](https://store.steampowered.com/app/1188720/Drunken_Wrestlers/)
+
 Q: Is this game as good as Drunken Wrestlers 2?
 * The developer admits that he designed this game when he was 16,and it is only released to the public so that players of Drunken Wrestlers 2 know where the game came from and those feeling nostalgic can enjoy a game from their childhood.
 
