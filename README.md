@@ -1,12 +1,12 @@
 # Drunken Wrestlers
 ## What is Drunken Wrestlers
-Drunken Wrestlers is a rag doll mini game created during the "2013 nextcastle dev cup".
+Drunken Wrestlers is a funny multiplayer fighting game based on active ragdoll technology developed by Oleg Skutte during the "2013 nextcastle dev cup".
 ## Features
 * two possible languages.
 * single player vs CPU.
 * two player game mode.
 * togglable blood amount, dismemberment threshold, and full screen.
-* Replay.
+* Replays.
 ## Installation
 ### Step 1:
 In order to install the game you will need a steam account and can create one [here.](https://store.steampowered.com/join/)
@@ -15,13 +15,14 @@ Once you have a steam account you must search through steam's seach tool for "Dr
 you can also find the link to the Drunken Wrestlers page [here.](https://store.steampowered.com/app/1188720/Drunken_Wrestlers/)
 ### Step 3:
 After selecting 'Play Game' you will be prompted with the below screen which gives you the Disk space required, your disk space available and the estimated time of download. as well it gives you the option to select the location on your device the game will be stored and the option to create shortcuts. Select 'Next>' when you are ready.
+[](C:\Users\Nate\Pictures\Screenshots\Screenshot (71))
 ### Step 4:
 Once the game has installed select the 'FINISH' button when prompted.
 ### Step 5:
 now that you have the game installed you should be able to double click on either of the shortcuts you've created or lauch the game through the Steam client.
 ## Usage
 * The controls for the single player game mode are to either to use the arrow keys or w, a, and d. 
-* For the two player game mode the the same controls apply however, each player selects the set of keys they wish to use between w, a, and d and the arrow keys.
+* For the two player game mode the the same controls apply however, each player selects the set of keys they wish to use between w, a, and d and the arrow keys, or you may play remotely from separate devices.
 * press a or the left pointing arrow key to move your character backwards. 
 * press d or the right pointing arrow key to move your character forwards.
 * press w or the forward pointing arrow key to thrust your characters arms forward.
@@ -29,5 +30,15 @@ now that you have the game installed you should be able to double click on eithe
 the goal of the game is to be the first to win five rounds.
 a round is won when the opposing character hits the mat or is "dismembered."
 a character is dismembered when one of their body parts falls off.
-## Help
-contact the developer, Oleg Skutte, [here.](http://skutteoleg.com/)
+## Contribution
+## FAQ
+Q: Can I play with my friends through steam rather than in person.
+* Yes, while it used to be true that you could only play the game on a single device, you can now play with friends by inviting them through the steam client.
+Q:
+*
+Q:
+*
+## Support
+If you have any issues or questions about the game you may contact the developer, Oleg Skutte, his website is attached [here.](http://skutteoleg.com/)
+## License
+information for the liscense can be found [here.]()
