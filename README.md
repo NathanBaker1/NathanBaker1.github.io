@@ -21,9 +21,9 @@ After selecting 'Play Game' you will be prompted with the below screen which giv
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/61393626/78406368-7c765a80-75d0-11ea-81d2-5128092e7384.png)
 ### Step 4:
-Once the game has installed select the 'FINISH' button when prompted.
+Once the game has installed, select the 'FINISH' button when prompted.
 ### Step 5:
-now that you have the game installed you should be able to double click on either of the shortcuts you've created or lauch the game through the Steam client.
+Now that you have the game installed you should be able to double click on either of the shortcuts you've created or launch the game through the Steam client.
 ## Usage
 * The controls for the single player game mode are to either to use the arrow keys or w, a, and d. 
 * For the two player game mode the the same controls apply however, each player selects the set of keys they wish to use between w, a, and d and the arrow keys, or you may play remotely from separate devices.
@@ -43,7 +43,7 @@ unfortunately this game is a complete work created for a contest and has no form
 Yes, while it used to be true that you could only play the game on a single device, you can now play with friends by inviting them through the steam client.
 
 #### Q: Why was this game removed from the google play store?
-Unity 4 was used to code this game in 2013. Since then a change in Google's policy lead to unity 4 games no longer being in complience with their Google Play store agreement and as a result Drunken Wrestlers was removed. If you wish to have a depth answer a link to the developers full reasoning behind what happened can be found [here.](https://store.steampowered.com/app/1188720/Drunken_Wrestlers/)
+Unity 4 was used to code this game in 2013. Since then a change in Google's policy lead to unity 4 games no longer being in complience with their Google Play store agreement and as a result Drunken Wrestlers was removed. If you wish to have a more in depth answer, a link to the developers full reasoning behind what happened can be found [here.](https://store.steampowered.com/app/1188720/Drunken_Wrestlers/)
 
 #### Q: Is this game as good as Drunken Wrestlers 2?
 The developer admits that he designed this game when he was 16,and it is only released to the public so that players of Drunken Wrestlers 2 know where the game came from and those feeling nostalgic can enjoy a game from their childhood.
@@ -51,4 +51,4 @@ The developer admits that he designed this game when he was 16,and it is only re
 ## Support
 If you have any issues or questions about the game you may contact the developer, Oleg Skutte, his website is attached [here.](http://skutteoleg.com/)
 ## License
-information for the liscense can be found [here.](https://store.steampowered.com/legal/?snr=1_44_44_)
+information for the license can be found [here.](https://store.steampowered.com/legal/?snr=1_44_44_)
