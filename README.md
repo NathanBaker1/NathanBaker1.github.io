@@ -44,11 +44,13 @@ Note: You may also launch the game through the Steam client.
 * press d or the right pointing arrow key to move your character forwards.
 * press w or the forward pointing arrow key to thrust your characters arms forward.
 
-![Screenshot (80)](https://user-images.githubusercontent.com/61393626/78406749-49809680-75d1-11ea-9586-c29d17fde085.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/61393626/79080101-2a74b980-7ce1-11ea-9f95-aa6a3c9ed1e8.png)
 ## How to Win
 the goal of the game is to be the first to win five rounds.
 a round is won when the opposing character hits the mat or is "dismembered."
 a character is dismembered when one of their body parts falls off.
+
+![Screenshot (101)](https://user-images.githubusercontent.com/61393626/79080109-3496b800-7ce1-11ea-97e6-6556e188cee4.png)
 ## Contribution
 unfortunately this game is a complete work created for a contest and has no form of contribution however, any inquiries about the use of or acess to the source code should be directed to the developer whose contact information can be found on his website linked [here.](http://skutteoleg.com/)
 ## FAQ
